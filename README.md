@@ -22,3 +22,14 @@ PHP Sec
 - Backup the website
 - Adjust default CMS settings
 - Restrict file uploads
+
+
+# Apache Web Server Hardening
+- Use mod_security Module
+- Use mod_evasive Module
+- Setting the HTTP Limits
+- Hiding Server Version Banner
+- Disable Directory Listing
+- Hiding ETag Header
+- Disable CGI and SSI
+- Enable XSS Protection Header
