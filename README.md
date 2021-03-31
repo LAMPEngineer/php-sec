@@ -40,6 +40,9 @@ PHP Sec
 - AWS Account Security and CloudTrail Analysis
 - Host Monitoring and Intrusion Detection -  Host-based intrusion detection system (HIDS)
 - Amazon Inspector
+- AWS Trusted Advisor 
+- AWS Config - Assess, Audit, and Evaluate AWS Resources
+- AWS Security Hub
 - Amazon Detective
 
 
