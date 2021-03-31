@@ -33,3 +33,13 @@ PHP Sec
 - Hiding ETag Header
 - Disable CGI and SSI
 - Enable XSS Protection Header
+
+
+# AWS Security Best Practices
+- Being Compliant and Managing Compliance in the Cloud
+- AWS Account Security and CloudTrail Analysis
+- Host Monitoring and Intrusion Detection -  Host-based intrusion detection system (HIDS)
+- Amazon Inspector
+- Amazon Detective
+
+
