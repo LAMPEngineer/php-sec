@@ -51,3 +51,9 @@ PHP Sec
 - Subgraph Vega - web security scanner and web security testing platform 
 
 
+# OWASP
+- OWASP Top Ten     - https://owasp.org/www-project-top-ten/
+- OWASP Cheat Sheet - https://cheatsheetseries.owasp.org/
+- OWASO SKF -Security Knowledge Framework - https://demo.securityknowledgeframework.org/dashboard
+
+
