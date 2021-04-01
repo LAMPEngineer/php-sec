@@ -44,5 +44,10 @@ PHP Sec
 - AWS Config - Assess, Audit, and Evaluate AWS Resources
 - AWS Security Hub
 - Amazon Detective
+- Secure EC2 SSH Access for Dynamic IP
+
+
+# Security Tools
+- Subgraph Vega - web security scanner and web security testing platform 
 
 
