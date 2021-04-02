@@ -8,12 +8,4 @@ read name
 
 # define a variavle
 greet="Hello ${name}! How do you do?"
-echo ${greet};
-
-
-# execute command
-whoami
-
-
-#display date
-date
+echo ${greet}
