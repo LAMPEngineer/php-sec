@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # display message
-echo "What is the of the directory you want to create:"
+echo "What is name of the directory you want to create:"
  
 
 # reading input
