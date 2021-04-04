@@ -1,4 +1,14 @@
 #!/bin/bash
+#
+#
+#Purpose: Script to create new directory and change 
+# current working directory to the new dir
+#
+#Created Date: Saturday 04 April 2021 04:36:02 PM IST
+#
+#
+# START #
+
 
 # display message
 echo "What is name of the directory you want to create:"
@@ -36,3 +46,4 @@ mkcd
 # 
 echo "You are now in ${dir_name}"
 
+# END #
