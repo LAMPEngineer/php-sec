@@ -57,3 +57,13 @@ PHP Sec
 - OWASO SKF -Security Knowledge Framework - https://demo.securityknowledgeframework.org/dashboard
 
 
+# PHP Production Configuration 
+
+php.ini
+
+Following settings need to adapt to our system:
+
+- session.save_path, session.cookie_path(e.g. /var/www/sitename)
+- session.cookie_domain (e.g. SiteName.com)
+
+
