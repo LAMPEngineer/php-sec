@@ -67,3 +67,19 @@ Following settings need to adapt to our system:
 - session.cookie_domain (e.g. SiteName.com)
 
 
+# Framework Level (Laravel) Security Best Practices
+- 
+-
+
+# Database Security Best Practices
+- 
+-
+
+# Application Server (Apache) Security Best Practices
+- 
+-
+
+# OS (Ubuntu, Linux) Security Best Practices
+- 
+-
+
