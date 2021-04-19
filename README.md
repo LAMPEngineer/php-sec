@@ -55,6 +55,7 @@ PHP Sec
 # OWASP
 - OWASP Top Ten     - https://owasp.org/www-project-top-ten/
 - OWASP Cheat Sheet - https://cheatsheetseries.owasp.org/
+- OWASP ModSecurity Core Rule Set - https://owasp.org/www-project-modsecurity-core-rule-set/
 - OWASO SKF -Security Knowledge Framework - https://demo.securityknowledgeframework.org/dashboard
 
 
