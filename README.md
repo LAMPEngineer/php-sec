@@ -45,6 +45,7 @@ PHP Sec
 - AWS Security Hub
 - Amazon Detective
 - Secure EC2 SSH Access for Dynamic IP
+- Restrict SSH Access to Amazon EC2 Instance
 
 
 # Security Tools
