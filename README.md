@@ -57,6 +57,7 @@ PHP Sec
 - OWASP Cheat Sheet - https://cheatsheetseries.owasp.org/
 - OWASP ModSecurity Core Rule Set - https://owasp.org/www-project-modsecurity-core-rule-set/
 - OWASO SKF -Security Knowledge Framework - https://demo.securityknowledgeframework.org/dashboard
+- OWASP DoS Cheat Sheet- https://cheatsheetseries.owasp.org/cheatsheets/Denial_of_Service_Cheat_Sheet.html
 
 
 # PHP Production Configuration 
