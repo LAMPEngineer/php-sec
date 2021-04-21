@@ -44,8 +44,8 @@ PHP Sec
 - AWS Config - Assess, Audit, and Evaluate AWS Resources
 - AWS Security Hub
 - Amazon Detective
-- Secure EC2 SSH Access for Dynamic IP
-- Restrict SSH Access to Amazon EC2 Instance
+- Secure EC2 SSH Access for Dynamic IP - https://pawelurbanek.com/ec2-ssh-dynamic-access
+- Restrict SSH Access to Amazon EC2 Instance - https://www.youtube.com/watch?v=1lwaQ9NQw94
 
 
 # Security Tools
