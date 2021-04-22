@@ -37,19 +37,19 @@ PHP Sec
 
 # AWS Security Best Practices
 - Being Compliant and Managing Compliance in the Cloud
-- AWS Account Security and CloudTrail Analysis
 - Host Monitoring and Intrusion Detection -  Host-based intrusion detection system (HIDS)
-- Amazon Inspector
-- AWS Trusted Advisor 
+- AWS Account Security and CloudTrail Analysis - https://aws.amazon.com/cloudtrail/
+- Amazon Inspector - https://aws.amazon.com/inspector/
+- AWS Trusted Advisor - https://aws.amazon.com/premiumsupport/technology/trusted-advisor/
 - AWS Config - Assess, Audit, and Evaluate AWS Resources
-- AWS Security Hub
-- Amazon Detective
+- AWS Security Hub - https://aws.amazon.com/security-hub/
+- Amazon Detective - https://aws.amazon.com/detective/
 - Secure EC2 SSH Access for Dynamic IP - https://pawelurbanek.com/ec2-ssh-dynamic-access
 - Restrict SSH Access to Amazon EC2 Instance - https://www.youtube.com/watch?v=1lwaQ9NQw94
 
 
 # Security Tools
-- Subgraph Vega - web security scanner and web security testing platform 
+- Subgraph Vega (web security testing platform)- https://subgraph.com/vega/
 
 
 # OWASP
