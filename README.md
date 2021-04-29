@@ -60,7 +60,7 @@ PHP Sec
 - OWASP DoS Cheat Sheet- https://cheatsheetseries.owasp.org/cheatsheets/Denial_of_Service_Cheat_Sheet.html
 
 
-# PHP Production Configuration 
+# PHP Production Configuration - https://cheatsheetseries.owasp.org/cheatsheets/PHP_Configuration_Cheat_Sheet.html
 
 php.ini
 
