@@ -60,7 +60,7 @@ PHP Sec
 - OWASP DoS Cheat Sheet- https://cheatsheetseries.owasp.org/cheatsheets/Denial_of_Service_Cheat_Sheet.html
 
 
-# PHP Production Configuration - https://cheatsheetseries.owasp.org/cheatsheets/PHP_Configuration_Cheat_Sheet.html
+# PHP Production Configuration 
 
 php.ini
 
@@ -68,6 +68,8 @@ Following settings need to adapt to our system:
 
 - session.save_path, session.cookie_path(e.g. /var/www/sitename)
 - session.cookie_domain (e.g. SiteName.com)
+
+- https://cheatsheetseries.owasp.org/cheatsheets/PHP_Configuration_Cheat_Sheet.html
 
 
 # Framework Level (Laravel) Security Best Practices
