@@ -73,8 +73,25 @@ Following settings need to adapt to our system:
 
 
 # Framework Level (Laravel) Security Best Practices
-- 
--
+- SOLID Principle
+- Fat models, skinny controllers
+- Validation - Move validation from controllers to Request classes
+- Business logic should be in service class
+- Don’t repeat yourself (DRY)
+- Prefer to use Eloquent over using Query Builder and raw SQL queries. Prefer collections over arrays
+- Mass assignment
+- Do not execute queries in Blade templates and use eager loading (N + 1 problem)
+- Comment your code, but prefer descriptive method and variable names over comments
+- Do not put JS and CSS in Blade templates and do not put any HTML in PHP classes
+- Use config and language files, constants instead of text in the code
+- Use standard Laravel tools accepted by community
+- Follow Laravel naming conventions - Follow PSR standards
+- Use shorter and more readable syntax where possible
+- Use IoC container or facades instead of new Class
+- Do not get data from the .env file directly
+- Store dates in the standard format. Use accessors and mutators to modify date format
+- https://github.com/alexeymezenin/laravel-best-practices
+- https://tony-stark.medium.com/larave-best-practices-for-developers-2021-19cf662f7de8
 
 # Database Security Best Practices
 - 
