@@ -41,7 +41,7 @@ PHP Sec
 - AWS Account Security and CloudTrail Analysis - https://aws.amazon.com/cloudtrail/
 - Amazon Inspector - https://aws.amazon.com/inspector/
 - AWS Trusted Advisor - https://aws.amazon.com/premiumsupport/technology/trusted-advisor/
-- AWS Config - Assess, Audit, and Evaluate AWS Resources
+- AWS Config - Assess, Audit, and Evaluate AWS Resources - https://aws.amazon.com/config/
 - AWS Security Hub - https://aws.amazon.com/security-hub/
 - Amazon Detective - https://aws.amazon.com/detective/
 - Secure EC2 SSH Access for Dynamic IP - https://pawelurbanek.com/ec2-ssh-dynamic-access
