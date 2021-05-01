@@ -73,7 +73,7 @@ Following settings need to adapt to our system:
 
 
 # Framework Level (Laravel) Security Best Practices
-- SOLID Principle
+- Single responsibility principle
 - Fat models, skinny controllers
 - Validation - Move validation from controllers to Request classes
 - Business logic should be in service class
