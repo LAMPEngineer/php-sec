@@ -91,7 +91,7 @@ Following settings need to adapt to our system:
 - Do not get data from the .env file directly
 - Store dates in the standard format. Use accessors and mutators to modify date format
 - https://github.com/alexeymezenin/laravel-best-practices
-- https://tony-stark.medium.com/larave-best-practices-for-developers-2021-19cf662f7de8
+
 
 # Database Security Best Practices
 - 
