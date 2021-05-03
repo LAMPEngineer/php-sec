@@ -8,6 +8,7 @@ PHP Sec
 - Viruses and malware
 - WHOIS domain registration
 - DDoS attacks
+- User enumeration attack 
 - Search engine blacklists
 
 
@@ -59,6 +60,7 @@ PHP Sec
 - OWASO SKF -Security Knowledge Framework - https://demo.securityknowledgeframework.org/dashboard
 - OWASP Denial of Service - https://owasp.org/www-community/attacks/Denial_of_Service
 - OWASP DoS Cheat Sheet- https://cheatsheetseries.owasp.org/cheatsheets/Denial_of_Service_Cheat_Sheet.html
+- OWASP User enumeration attack - https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/03-Identity_Management_Testing/04-Testing_for_Account_Enumeration_and_Guessable_User_Account
 
 
 # PHP Production Configuration 
