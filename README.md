@@ -96,6 +96,16 @@ Following settings need to adapt to our system:
 - https://github.com/alexeymezenin/laravel-best-practices
 
 
+# Application Security & Analysis
+- AJAX Security 
+- Abuse Case 
+- Attack Surface Analysis 
+- Authentication 
+- Authorization Testing Automation
+- Bean Validation 
+- Choosing and Using Security Questions 
+- 
+
 # Database Security Best Practices
 - 
 -
