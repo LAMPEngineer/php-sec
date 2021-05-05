@@ -104,7 +104,17 @@ Following settings need to adapt to our system:
 - Authorization Testing Automation
 - Bean Validation 
 - Choosing and Using Security Questions 
-- 
+- Clickjacking Defense
+- Content Security Policy
+- Credential Stuffing Prevention
+- Cross-Site Request Forgery Prevention
+- Cross Site Scripting Prevention
+- Cryptographic Storage
+- DOM based XSS Prevention
+- Error Handling
+- File Upload
+- Forgot Password
+
 
 # Database Security Best Practices
 - 
