@@ -114,6 +114,11 @@ Following settings need to adapt to our system:
 - Error Handling
 - File Upload
 - Forgot Password
+- HTML5 Security
+- HTTP Strict Transport Security
+- Injection Prevention
+- Input Validation
+- Insecure Direct Object Reference Prevention
 
 
 # Database Security Best Practices
