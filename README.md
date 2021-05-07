@@ -119,6 +119,11 @@ Following settings need to adapt to our system:
 - Injection Prevention
 - Input Validation
 - Insecure Direct Object Reference Prevention
+- Logging
+- Mass Assignment
+- Microservices based Security Arch 
+- Microservices security
+- Multifactor Authentication
 
 
 # Database Security Best Practices
