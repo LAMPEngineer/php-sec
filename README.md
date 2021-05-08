@@ -124,6 +124,9 @@ Following settings need to adapt to our system:
 - Microservices based Security Arch 
 - Microservices security
 - Multifactor Authentication
+- Nodejs Security
+- OS Command Injection Defense
+- Password Storage
 
 
 # Database Security Best Practices
