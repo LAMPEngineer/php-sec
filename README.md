@@ -127,6 +127,10 @@ Following settings need to adapt to our system:
 - Nodejs Security
 - OS Command Injection Defense
 - Password Storage
+- Pinning
+- Query Parameterization
+- REST Assessment
+- REST Security
 
 
 # Database Security Best Practices
