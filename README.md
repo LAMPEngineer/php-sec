@@ -131,7 +131,10 @@ Following settings need to adapt to our system:
 - Query Parameterization
 - REST Assessment
 - REST Security
-
+- SQL Injection Prevention
++ Securing Cascading Style Sheets
+- Server Side Request Forgery Prevention
++ Session Management
 
 # Database Security Best Practices
 - 
