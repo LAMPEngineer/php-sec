@@ -132,9 +132,14 @@ Following settings need to adapt to our system:
 - REST Assessment
 - REST Security
 - SQL Injection Prevention
-+ Securing Cascading Style Sheets
+- Securing Cascading Style Sheets
 - Server Side Request Forgery Prevention
-+ Session Management
+- Session Management
+- Third Party Javascript Management
+- Threat Modeling
+- Transaction Authorization
+- Transport Layer Protection
+
 
 # Database Security Best Practices
 - 
