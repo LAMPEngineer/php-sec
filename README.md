@@ -139,6 +139,8 @@ Following settings need to adapt to our system:
 - Threat Modeling
 - Transaction Authorization
 - Transport Layer Protection
+- Unvalidated Redirects and Forwards
+- User Privacy Protecti
 
 
 # Database Security Best Practices
