@@ -140,7 +140,10 @@ Following settings need to adapt to our system:
 - Transaction Authorization
 - Transport Layer Protection
 - Unvalidated Redirects and Forwards
-- User Privacy Protecti
+- User Privacy Protection
+- Virtual Patching
+- Vulnerability Disclosure
+- Vulnerable Dependency Management
 
 
 # Database Security Best Practices
