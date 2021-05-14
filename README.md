@@ -144,7 +144,9 @@ Following settings need to adapt to our system:
 - Virtual Patching
 - Vulnerability Disclosure
 - Vulnerable Dependency Management
-
+- Web Service Security
+- XML External Entity Prevention
+- XML Security
 
 # Database Security Best Practices
 - 
