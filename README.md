@@ -95,6 +95,38 @@ Following settings need to adapt to our system:
 - Store dates in the standard format. Use accessors and mutators to modify date format
 - https://github.com/alexeymezenin/laravel-best-practices
 
+# Develop Laravel applications in a secure manner
+
+##  Basic Security
+- Make sure your .env file is not publicly accessible
+- Turn Off App Debug In Production
+- Hide Sensitive Debug Variables
+- Generate Your App Key
+- CSRF Protection
+- Secure PHP Configuration
+- Set Safe File and Directory Permissions
+- Login Throttling
+- Code Shouldn't Contain Debug Statements 
+- Code Shouldn't Contain Hard Coded Credentials 
+
+## Cookie Security and Session Management
+- Cookie Encryption
+- Cookie HttpOnly Attribute
+- Cookie Domain Attribute 
+- Cookie SameSite Attribute 
+- Cookie Secure Attribute
+- Session Timeout 
+
+## Mass Assignment
+- Fillable Foreign Key
+- Mass Assignment
+- Unguarded Models
+
+## SQL Injection Attacks
+- Column Name SQL Injection 
+- Raw Queries SQL Injection 
+- Native SQL Injection 
+- Validation Rule SQL Injection
 
 # Application Security & Analysis
 - AJAX Security 
