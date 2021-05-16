@@ -95,6 +95,9 @@ Following settings need to adapt to our system:
 - Store dates in the standard format. Use accessors and mutators to modify date format
 - https://github.com/alexeymezenin/laravel-best-practices
 
+
+
+
 # Develop Laravel applications in a secure manner
 
 ##  Basic Security
@@ -127,6 +130,41 @@ Following settings need to adapt to our system:
 - Raw Queries SQL Injection 
 - Native SQL Injection 
 - Validation Rule SQL Injection
+
+## Security Headers
+- Cross Site Scripting
+- HSTS Header
+- Clickjacking 
+- Mime Sniffing
+- Web Server Fingerprinting
+
+## Unrestricted File Uploads and DOS Attacks
+- Arbitrary File Uploads 
+- Directory Traversal 
+- Regex DOS Attacks 
+- Storage DOS Attacks 
+- Unrestricted File Uploads 
+- ZIP and XML File Bombs 
+
+## Injection and Phishing Attacks
+- Command Injection 
+- Host Injection 
+- Object Injection 
+- Eval Code Injection 
+- Extract Variable Hijacking 
+- Open Redirection
+
+## Dependency Management
+- Licensing
+- Backend Vulnerable Dependencies
+- Frontend Vulnerable Dependencies
+- Stable Dependencies
+- Up To Date Dependencies
+- Horizon Security 
+- Telescope Security
+- Nova Security 
+
+
 
 # Application Security & Analysis
 - AJAX Security 
@@ -179,6 +217,8 @@ Following settings need to adapt to our system:
 - Web Service Security
 - XML External Entity Prevention
 - XML Security
+
+
 
 # Database Security Best Practices
 - 
