@@ -100,7 +100,7 @@ Following settings need to adapt to our system:
 
 # Develop Laravel applications in a secure manner
 
-##  Basic Security
+## a. Basic Security
 - Make sure your .env file is not publicly accessible
 - Turn Off App Debug In Production
 - Hide Sensitive Debug Variables
@@ -112,7 +112,7 @@ Following settings need to adapt to our system:
 - Code Shouldn't Contain Debug Statements 
 - Code Shouldn't Contain Hard Coded Credentials 
 
-## Cookie Security and Session Management
+## b. Cookie Security and Session Management
 - Cookie Encryption
 - Cookie HttpOnly Attribute
 - Cookie Domain Attribute 
@@ -120,25 +120,25 @@ Following settings need to adapt to our system:
 - Cookie Secure Attribute
 - Session Timeout 
 
-## Mass Assignment
+## c. Mass Assignment
 - Fillable Foreign Key
 - Mass Assignment
 - Unguarded Models
 
-## SQL Injection Attacks
+## d. SQL Injection Attacks
 - Column Name SQL Injection 
 - Raw Queries SQL Injection 
 - Native SQL Injection 
 - Validation Rule SQL Injection
 
-## Security Headers
+## e. Security Headers
 - Cross Site Scripting
 - HSTS Header
 - Clickjacking 
 - Mime Sniffing
 - Web Server Fingerprinting
 
-## Unrestricted File Uploads and DOS Attacks
+## f. Unrestricted File Uploads and DOS Attacks
 - Arbitrary File Uploads 
 - Directory Traversal 
 - Regex DOS Attacks 
@@ -146,7 +146,7 @@ Following settings need to adapt to our system:
 - Unrestricted File Uploads 
 - ZIP and XML File Bombs 
 
-## Injection and Phishing Attacks
+## g. Injection and Phishing Attacks
 - Command Injection 
 - Host Injection 
 - Object Injection 
@@ -154,7 +154,7 @@ Following settings need to adapt to our system:
 - Extract Variable Hijacking 
 - Open Redirection
 
-## Dependency Management
+## h. Dependency Management
 - Licensing
 - Backend Vulnerable Dependencies
 - Frontend Vulnerable Dependencies
